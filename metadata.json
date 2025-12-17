@@ -1,0 +1,5 @@
+{
+  "name": "Monday Rabbit Generator",
+  "description": "A product showcase generator that creates branded merchandise mockups from a user-uploaded logo/character using Gemini 2.5.",
+  "requestFramePermissions": []
+}
